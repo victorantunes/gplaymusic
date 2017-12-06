@@ -1,4 +1,4 @@
-IMPORTANTE: This project is a fork from https://github.com/FelixGail/gplaymusic aimed at Android compatibility.
+IMPORTANT: This project is a fork from https://github.com/FelixGail/gplaymusic aimed at Android compatibility.
 
 # Unofficial GPlayMusic API in JAVA
 
