@@ -1,3 +1,5 @@
+IMPORTANTE: This project is a fork from https://github.com/FelixGail/gplaymusic aimed at Android compatibility.
+
 # Unofficial GPlayMusic API in JAVA
 
 This library poses as a client for the [GooglePlay](https://play.google.com/music/) app.
